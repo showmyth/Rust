@@ -50,13 +50,17 @@
   * Conversions
     * [Binary To Decimal](https://github.com/TheAlgorithms/Rust/blob/master/src/conversions/binary_to_decimal.rs)
     * [Binary To Hexadecimal](https://github.com/TheAlgorithms/Rust/blob/master/src/conversions/binary_to_hexadecimal.rs)
+    * [Binary To Octal](https://github.com/TheAlgorithms/Rust/blob/master/src/conversions/binary_to_octal.rs)
     * [Decimal To Binary](https://github.com/TheAlgorithms/Rust/blob/master/src/conversions/decimal_to_binary.rs)
     * [Decimal To Hexadecimal](https://github.com/TheAlgorithms/Rust/blob/master/src/conversions/decimal_to_hexadecimal.rs)
+    * [Decimal To Octal](https://github.com/TheAlgorithms/Rust/blob/master/src/conversions/decimal_to_octal.rs)
     * [Hexadecimal To Binary](https://github.com/TheAlgorithms/Rust/blob/master/src/conversions/hexadecimal_to_binary.rs)
     * [Hexadecimal To Decimal](https://github.com/TheAlgorithms/Rust/blob/master/src/conversions/hexadecimal_to_decimal.rs)
+    * [Hexadecimal To Octal](https://github.com/TheAlgorithms/Rust/blob/master/src/conversions/hexadecimal_to_octal.rs)
     * [Length Conversion](https://github.com/TheAlgorithms/Rust/blob/master/src/conversions/length_conversion.rs)
     * [Octal To Binary](https://github.com/TheAlgorithms/Rust/blob/master/src/conversions/octal_to_binary.rs)
     * [Octal To Decimal](https://github.com/TheAlgorithms/Rust/blob/master/src/conversions/octal_to_decimal.rs)
+    * [Octal To Hexadecimal](https://github.com/TheAlgorithms/Rust/blob/master/src/conversions/octal_to_hexadecimal.rs)
     * [Rgb Cmyk Conversion](https://github.com/TheAlgorithms/Rust/blob/master/src/conversions/rgb_cmyk_conversion.rs)
   * Data Structures
     * [Avl Tree](https://github.com/TheAlgorithms/Rust/blob/master/src/data_structures/avl_tree.rs)
@@ -105,6 +109,12 @@
     * [Word Break](https://github.com/TheAlgorithms/Rust/blob/master/src/dynamic_programming/word_break.rs)
   * Financial
     * [Present Value](https://github.com/TheAlgorithms/Rust/blob/master/src/financial/present_value.rs)
+    * [Net Present Value](https://github.com/TheAlgorithms/Rust/blob/master/src/financial/npv.rs)
+    * [NPV Sensitivity](https://github.com/TheAlgorithms/Rust/blob/master/src/financial/npv_sensitivity.rs)
+    * [Compound Interest](https://github.com/TheAlgorithms/Rust/blob/master/src/financial/compound_interest.rs)
+    * [Payback Period](https://github.com/TheAlgorithms/Rust/blob/master/src/financial/payback.rs)
+    * [Finance Ratios](https://github.com/TheAlgorithms/Rust/blob/master/src/financial/finance_ratios.rs)
+    * [Treynor Ratio](https://github.com/TheAlgorithms/Rust/blob/master/src/financial/treynor_ratio.rs)
   * General
     * [Convex Hull](https://github.com/TheAlgorithms/Rust/blob/master/src/general/convex_hull.rs)
     * [Fisher Yates Shuffle](https://github.com/TheAlgorithms/Rust/blob/master/src/general/fisher_yates_shuffle.rs)
@@ -262,6 +272,7 @@
   * Navigation
     * [Bearing](https://github.com/TheAlgorithms/Rust/blob/master/src/navigation/bearing.rs)
     * [Haversine](https://github.com/TheAlgorithms/Rust/blob/master/src/navigation/haversine.rs)
+    * [Rhumbline](https://github.com/TheAlgorithms/Rust/blob/master/src/navigation/rhumbline.rs)
   * Number Theory
     * [Compute Totient](https://github.com/TheAlgorithms/Rust/blob/master/src/number_theory/compute_totient.rs)
     * [Euler Totient](https://github.com/TheAlgorithms/Rust/blob/master/src/number_theory/euler_totient.rs)
